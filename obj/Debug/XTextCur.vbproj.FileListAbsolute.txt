@@ -1,0 +1,40 @@
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency.resources
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.Resources.resources
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbproj.GenerateResource.Cache
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.dll
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.xml
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.pdb
+D:\Project\Source Files\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency_L.resources
+C:\SRC-Project\XTextCur.dll
+C:\SRC-Project\XTextCur.pdb
+C:\SRC-Project\XTextCur.xml
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency.resources
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency_L.resources
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.Resources.resources
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbproj.GenerateResource.Cache
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.dll
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.xml
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.pdb
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbprojResolveAssemblyReference.cache
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENDiscount.resources
+E:\Project\BENGKEL\x86\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.EnDicount_L.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbprojResolveAssemblyReference.cache
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency_L.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.EnDicount_L.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.Resources.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENDiscount.resources
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbproj.GenerateResource.Cache
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.dll
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.xml
+D:\Project\Source Files\x86 - 11-Oktober-2016 - Edit Desikon\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.pdb
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbprojResolveAssemblyReference.cache
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency.resources
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENCurency_L.resources
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.EnDicount_L.resources
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.Resources.resources
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.ENDiscount.resources
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.vbproj.GenerateResource.Cache
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.dll
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.xml
+D:\Project\Source Files\X05. x86 - 12-Nov-2016 - LBB Tbh Nominal\001. src.object.headerForm\XTextCur\obj\Debug\XTextCur.pdb
